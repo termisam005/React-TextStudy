@@ -4,6 +4,7 @@ import Hello from './Hello';
 import Wrapper from './Wrapper';
 import Counter from './Counter';
 import InputSample3 from './InputSample3';
+import UserList from './UserList';
 
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
     //     <Hello color="pink"/>
     // </Wrapper>
     // <Counter />
-    <InputSample3 />
+    <UserList />
   );
 }
 
